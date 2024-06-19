@@ -1,8 +1,9 @@
 #include "ScravTrap.hpp"
+#include "FragTrap.hpp"
 
 int main( void )
 {
-    Scravtrap ash( "Ash" );
+    FragTrap ash( "Ash" );
 
     return 0;
 }
